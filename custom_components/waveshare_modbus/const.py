@@ -1,0 +1,1 @@
+DOMAIN = "waveshare_modbus"

@@ -1,0 +1,9 @@
+{
+  "domain": "waveshare_modbus",
+  "name": "Waveshare Modbus RTU / TCP",
+  "version": "1.0.0",
+  "documentation": "https://github.com/SoFarSoGood86/waveshare_modbus",
+  "requirements": ["pymodbus>=3.6.0"],
+  "codeowners": ["@SoFarSoGood86"],
+  "iot_class": "local_polling"
+}
